@@ -12,3 +12,9 @@ Robust Scaler: Scale and normalize the dataset for optimal machine learning perf
 Parameter Optimization: Utilize GridSearchCV to find the best hyperparameters for the SVC model.
 
 Match Results Prediction: Predict the likelihood of a team's win or loss based on match statistics.
+
+#Project steps
+1. Data Preprocessing
+2. Data Visualization
+3. Scaling the Data with Robust Scaler
+4. Hyperparameter Optimization
