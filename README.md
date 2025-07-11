@@ -1,4 +1,4 @@
-# csgo
+# CSGO match result predictor
 # Overview
 The purpose of this project is to predict whether a CS:GO team will win or lose a given match based on preprocessed statistical data from previous matches. The prediction model utilizes Support Vector Machines (SVMs), chosen for their ability to handle small datasets with high accuracy. This project demonstrates key steps such as data preprocessing, scaling, visualization, model training, and parameter tuning for best precision
 
@@ -13,7 +13,7 @@ Parameter Optimization: Utilize GridSearchCV to find the best hyperparameters fo
 
 Match Results Prediction: Predict the likelihood of a team's win or loss based on match statistics.
 
-#Project steps
+# Project steps
 1. Data Preprocessing
 2. Data Visualization
 3. Scaling the Data with Robust Scaler
